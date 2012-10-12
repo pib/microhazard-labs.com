@@ -2,6 +2,7 @@
 layout: post
 title: New Project Blog
 tagline: That's right. Another one.
+category: blog
 tags: github blog projects
 ---
 
