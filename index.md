@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Microhazard Labs
-tagline: Making things.
+tagline: Making things. Telling you about it.
 ---
 {% include JB/setup %}
 
