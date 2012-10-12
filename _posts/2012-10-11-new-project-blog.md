@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New Project Blog
+tagline: That's right. Another one.
 tags: github blog projects
 ---
 
